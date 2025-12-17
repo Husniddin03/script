@@ -40,7 +40,7 @@ const myAnswers = {
     7: 0,   // 7-savol: 1-variant
     8: 3,   // 8-savol: 4-variant
     9: 2,   // 9-savol: 3-variant
-    10: 1   // 10-savol: 2-variant
+    10: 1 , // 10-savol: 2-variant
     11: 0,  // 11-savol: 1-variant
     12: 2,  // 12-savol: 3-variant
     13: 1,  // 13-savol: 2-variant
